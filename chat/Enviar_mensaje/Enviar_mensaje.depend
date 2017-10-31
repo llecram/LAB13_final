@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1509416643 source:c:\users\sebastian\documents\chat\enviar_mensaje\main.cpp
+	<iostream>
+	<winsock2.h>
+	"env.h"
+
+1509417286 c:\users\sebastian\documents\chat\enviar_mensaje\env.h
+	<iostream>
+	<winsock2.h>
+

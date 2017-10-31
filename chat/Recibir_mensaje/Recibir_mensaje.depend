@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1509417528 source:c:\users\sebastian\documents\chat\recibir_mensaje\main.cpp
+	<io.h>
+	<stdio.h>
+	<winsock2.h>
+	<iostream>
+	<thread>
+	"rec.h"
+
+1509417610 c:\users\sebastian\documents\chat\recibir_mensaje\rec.h
+	<io.h>
+	<stdio.h>
+	<winsock2.h>
+	<iostream>
+	<thread>
+
