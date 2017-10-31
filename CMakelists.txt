@@ -1,0 +1,4 @@
+cmake_minimum_required( VERSION 3.0 )
+project( CHAT LABO )
+add_executable(Recibirmensaje main.cpp main2.cpp)
+
